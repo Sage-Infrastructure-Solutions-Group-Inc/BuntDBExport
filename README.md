@@ -1,5 +1,5 @@
-This is a very simple tool that will read all the keys in your BuntDB database, marshall the JSON data,
-and write it an export file. 
+This is a very simple tool that will read all the keys in your BuntDB database, marshall the data for JSON,
+and write the JSON data to an export file. 
 
 # Example
 ```cmd
